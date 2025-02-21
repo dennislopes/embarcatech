@@ -44,6 +44,7 @@ Criar uma ferramenta prática, de baixo custo e educativa para monitoramento de 
 ```bash
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
 cd nome-do-repositório
+```
 
 - Instalar o SDK da Bitdoglab e dependências.  
 
@@ -58,6 +59,7 @@ mkdir build
 cd build
 cmake ..
 make
+```
 
 - Enviar o firmware para a placa Bitdoglab.
 
@@ -71,7 +73,7 @@ Sinta-se à vontade para contribuir com o projeto! Faça um fork, crie um branch
 git checkout -b feature/nova-funcionalidade
 git commit -m 'Adiciona nova funcionalidade'
 git push origin feature/nova-funcionalidade
-
+```
 
 ## 📧 **Contato**
 
